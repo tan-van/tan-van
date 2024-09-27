@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Tan
-- 👀 I’m interested in learning web3 development
-- 🌱 I’m currently learning solidity!
-- 💞️ I’m looking to collaborate on all things educational onchain 
-- 📫 How to reach me majortanukivan@gmail.com 
-- ⚡ Fun fact: Just getting started
 
 <!---
 tan-van/tan-van is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
